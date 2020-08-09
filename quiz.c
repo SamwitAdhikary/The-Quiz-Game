@@ -496,7 +496,7 @@ void reset_score()
 
 void help()
 	{system("cls");
-    printf("\n\n                              HELP");
+    printf("\n\n                            HELP");
     printf("\n -------------------------------------------------------------------------");
     printf("\n ......................... The Quiz Game...........");
     printf("\n >> There are two rounds in the game, WARMUP ROUND & CHALLANGE ROUND");
